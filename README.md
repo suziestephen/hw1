@@ -6,7 +6,7 @@ First Assessment - Coding bootcamp
 </h1>
 
 The link to the webpage is:
-<a href="https://github.com/suziestephen/Homework1_1911"><Homework1_1911></a>
+<a href="https://suziestephen.github.io/suziestephen.github.io-hw1/"><Homework1_1911></a>
 
 Usage:
 Below is a screenshot of the resulting webpage
